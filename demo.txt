@@ -1,0 +1,8 @@
+if($this->session->userdata('user_type') == 3)
+{
+
+2 Customer Support
+3 Manager
+4 Agent
+5 Admin
+                        

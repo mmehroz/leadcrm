@@ -1,0 +1,28 @@
+Bizzworld Project
+Superadmin
+add options to dropdown from panel
+add delete option for this user
+center field should be dropdown
+3 types of admins under the super admin
+1 normal admin (sub-admin)
+    this user will have all right except creating new admin users
+    this user have no permisssion to edit the form
+2 customer support (customer admin)
+    this user can only upate deal status and payment status
+3 Manager (admin manager)
+    this user cant edit anything except notes and your item section
+    generate pdf option will be hidden for this user
+
+for all users
+forgot password option should be enable for all users
+forgot password email should be sent to myaccount email
+change cart to card
+16 digit max-input validation for cc number
+in the item section
+quantity * price = total *(sys generated)
+change item id to deal number
+pdf will open in new tab
+add 2columns in table of deal forms
+1 column deal status (dropdown in form)
+2 column payment status (dropdown in from)
+by default records should be orderd by date desc 
